@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+!license
+!pyproject.toml
+!README.md
+!src/
+!src/weather
+!src/weather/**
