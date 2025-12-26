@@ -1,7 +1,7 @@
 import requests
 
-def conn(city:str):
-    api_key = "47d62db63bc60556b8be1e6156d65921"
+def conn(city:str, api:str):
+    api_key = api
 
     city = city
 
