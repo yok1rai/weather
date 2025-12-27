@@ -21,7 +21,9 @@ keywords = [
 ]
 
 dependencies = [
-    "requests>=2.0"
+    "requests>=2.0",
+    "flask",
+    "dotenv"
 ]
 
 classifiers = [
